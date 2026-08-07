@@ -1,2 +1,2 @@
 # Automated-Single-Channel-Fluorescence-Confocal-Image-Analysis-Workflow-for-Fiji-ImageJ-1.54p-
-This project is an end-to-end, Python and Fiji pipeline for single-channel fluorescence microscopy (.lsm) images. It auto-normalises channels, tests multiple ImageJ threshold models (doi.10.1117/1.1631315), extracts morphology metrics), plots fluorescence intensity for both of the channels and summary visuals and exports everything to clean outputs 
+This project is an end-to-end, Python and Fiji pipeline for single-channel fluorescence microscopy (.lsm) images. It auto-normalises channels, tests multiple ImageJ threshold models (doi.10.1117/1.1631315), extracts morphology metrics), plots fluorescence intensity and summary visuals and exports everything to clean outputs 
